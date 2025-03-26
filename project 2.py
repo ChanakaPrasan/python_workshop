@@ -1,6 +1,6 @@
-x =12
-y =12
-if(x==4):
-    print("hello")
-else:
-    print("worng")   
+x = 1
+while(x<=100):
+    if(not(x%2)==0):
+        print(x)
+    x+=1
+        
