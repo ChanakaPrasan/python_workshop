@@ -1,6 +1,6 @@
-x = int(input("Enter  frist  Number : "))
-y = int(input("Enter  second  Number : "))
-
-z= x+y
-a = z/2
-print(a)
+x =12
+y =12
+if(x==4):
+    print("hello")
+else:
+    print("worng")   
